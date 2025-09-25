@@ -66,6 +66,7 @@ Você pode expandir para componentes mais complexos (frameworks, state managemen
 ## 👥 Integrantes
 
 Fernando Bellegarde - 564169
+
 Otávio Inaba - 565003
 
 ---
