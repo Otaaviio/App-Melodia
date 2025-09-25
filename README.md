@@ -24,6 +24,7 @@ App Melodia é uma plataforma voltada para amantes da música que desejam explor
 A proposta é entregar uma experiência sonora refinada, com recomendações inteligentes e funcionalidades de controle e personalização elevadas.
 
 A página demo está disponível em: https://otaaviio.github.io/App-Melodia/ ([otaaviio.github.io](https://otaaviio.github.io/App-Melodia/))  
+
 E o repositório-fonte no GitHub: https://github.com/Otaaviio/App-Melodia ([github.com](https://github.com/Otaaviio/App-Melodia))
 
 ---
@@ -56,7 +57,7 @@ Você pode navegar pelo front-end e avaliar o visual, interações e propor melh
 | Hosting / Deploy | GitHub Pages | O app está hospedado como site estático em gh-pages |
 
 > **Linguagens utilizadas no repositório**  
-> HTML ~ 86,3 % · CSS ~ 10,6 % · JavaScript ~ 3,1 % ([github.com](https://github.com/Otaaviio/App-Melodia))  
+> HTML ~ 86,3 % · CSS ~ 10,6 % · JavaScript ~ 3,1 %
 
 Você pode expandir para componentes mais complexos (frameworks, state management, backend) conforme o escopo evoluir.
 
